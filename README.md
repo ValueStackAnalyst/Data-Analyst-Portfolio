@@ -1,2 +1,2 @@
 # Data-Analyst-Portfolio
-Data analytics portfolio focused on turning raw data into actionable business insights.
+A collection of data analysis projects covering churn analysis, funnel analysis, and business intelligence.
