@@ -16,12 +16,11 @@ Add-on adoption reinforces this pattern. Customers with Online Security churn at
 
 
 ## Combined Analysis Finding
-The recommended strategy is to reduce churn at the source by shifting high-risk customers toward longer-term contracts early in their lifecycle while simultaneously increasing add-on penetration to strengthen engagement and retention.
+The recommended strategy is to reduce churn at the source by transitioning high-risk customers toward longer-term contracts early in their lifecycle while increasing add-on adoption to strengthen engagement and retention.
 
-Month-to-month customers represent 55% of our base but drive 88% of our churn — meaning they churn at a rate disproportionate to their size and represent our single highest-leverage retention opportunity, while customers with tenure under 12 months account for 14.7% of the base yet contribute 55.4% of churn, serving as a secondary concentration point.
+Month-to-month customers represent 55% of the customer base yet account for 88% of total churn, making them the business’s largest and highest-leverage retention segment. Churn also concentrates heavily among customers with tenure under 12 months, who comprise just 14.7% of the base but contribute 55.4% of total churn.
 
- 
-However, while contract type drives churn and tenure concentrates it early in the customer lifecycle, add-ons act as a mitigating factor, significantly reducing churn by approximately 21–26 percentage points within high-risk segments such as month-to-month and early-tenure customers.
+While contract type is the primary driver of churn and tenure determines when churn is most likely to occur, add-ons act as a mitigating retention lever, reducing churn by approximately 21–26 percentage points across high-risk customer segments.
 
 ## Dashboard
 https://public.tableau.com/views/SaaSCustomerChurnAnalysis_17785266891760/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
