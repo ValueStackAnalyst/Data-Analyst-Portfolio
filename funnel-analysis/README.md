@@ -24,4 +24,7 @@ bottlenecks.
 
 
 ## Dashboard
+https://public.tableau.com/views/E-commerceFunnelAnalysis_17787077675250/E-CommerceFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## Visualization Note:
+The funnel chart uses a colour gradient to indicate drop-off severity by stage — darker bars represent higher abandonment rates, with the Payment Page recording the most severe drop-off at 92.5%.
