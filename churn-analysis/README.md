@@ -18,7 +18,7 @@ Add-on adoption reinforces this pattern. Customers with Online Security churn at
 ## Combined Analysis Finding
 The recommended strategy is to prioritise contract conversion for month-to-month customers in their first 12 months, then layer add-on adoption as a secondary retention mechanism.
 
-Month-to-month customers represent 55% of the customer base yet account for 88% of total churn, making them the business’s largest and highest-leverage retention segment. Churn also concentrates heavily among customers with tenure under 12 months, who comprise just 14.7% of the base but contribute 55.4% of total churn.
+Month-to-month customers represent 55% of the customer base yet account for 88% of total churn, making them the business’s largest and highest-leverage retention segment. Churn also concentrates heavily among customers with tenure under 12 months, who comprise 30.9% of the customer base but contribute 55.4% of total churn.
 
 While contract type is the primary driver of churn and tenure determines when churn is most likely to occur, add-ons act as a mitigating retention lever, reducing churn by approximately 21–26 percentage points across high-risk customer segments.
 
