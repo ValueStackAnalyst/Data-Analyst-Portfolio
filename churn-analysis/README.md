@@ -16,7 +16,7 @@ Add-on adoption reinforces this pattern. Customers with Online Security churn at
 
 
 ## Combined Analysis Finding
-The recommended strategy is to reduce churn at the source by transitioning high-risk customers toward longer-term contracts early in their lifecycle while increasing add-on adoption to strengthen engagement and retention.
+The recommended strategy is to prioritise contract conversion for month-to-month customers in their first 12 months, then layer add-on adoption as a secondary retention mechanism.
 
 Month-to-month customers represent 55% of the customer base yet account for 88% of total churn, making them the business’s largest and highest-leverage retention segment. Churn also concentrates heavily among customers with tenure under 12 months, who comprise just 14.7% of the base but contribute 55.4% of total churn.
 
